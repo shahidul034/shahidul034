@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shahidul Shakib</h1>
-<h3 align="center">Teacher, Programmer, Researcher</h3>
+<h1 align="center">Hi 👋, I'm Shahidul Shakib, Lecturer, CSE, KUET</h1>
+<h3 align="center">Teacher, Researcher, Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidul034&label=Profile%20views&color=0e75b6&style=flat" alt="shahidul034" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Natural Language Processing and Machine learning**
 
-- 👯 I’m looking to collaborate on **Bangla GPT-2**
+- 👯 I’m looking to collaborate on **Bangladesh agriculture weather prediction**
 
 - 👨‍💻 All of my projects are available at [https://shahidul034.github.io/My-portfolio-website/](https://shahidul034.github.io/My-portfolio-website/)
 
 - 💬 Ask me about **NLP, Machine learning and python**
 
-- 📫 How to reach me **shahidulshakib034@gmail.com**
+- 📫 How to reach me **shahidulshakib034@gmail.com and ss@cse.kuet.ac.bd**
 
 - 📄 Know about my experiences [https://shahidul034.github.io/My-portfolio-website/](https://shahidul034.github.io/My-portfolio-website/)
 
