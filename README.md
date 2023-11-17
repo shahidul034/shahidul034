@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing and Machine learning**
 
-- 👯 I’m looking to collaborate on **Bangladesh agriculture weather prediction**
+- 👯 I’m looking to collaborate on **Medical LLM(Large language model) and Haji LLM**
 
 - 👨‍💻 All of my projects are available at [https://shahidul034.github.io/My-portfolio-website/](https://shahidul034.github.io/My-portfolio-website/)
 
