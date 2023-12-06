@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahidul Shakib, Lecturer, CSE, KUET</h1>
 <h3 align="center">Teacher, Researcher, Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidul034&label=Profile%20views&color=0e75b6&style=flat" alt="shahidul034" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidul034&label=Profile%20views&color=0e75b6&style=flat" alt="shahidul034" /> </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidul034" alt="shahidul034" /></a> </p>
+<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidul034" alt="shahidul034" /></a> </p> --->
 
 - 🌱 I’m currently learning **Natural Language Processing and Machine learning**
 
