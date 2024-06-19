@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Natural Language Processing and Machine learning**
 
-- 👯 I’m looking to collaborate on **University information LLM**
+- 👯 I’m looking to collaborate on **LLM based QA chatbot builder**
 
 - 👨‍💻 All of my projects are available at [https://shahidul034.github.io/My-portfolio-website/](https://shahidul034.github.io/My-portfolio-website/)
 
-- 💬 Ask me about **NLP, Machine learning and python**
+- 💬 Ask me about **NLP, Machine learning and Python**
 
 - 📫 How to reach me **shahidulshakib034@gmail.com and ss@cse.kuet.ac.bd**
 
