@@ -23,8 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shahidulshakib034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahidulshakib034" height="30" width="40" /></a>
 <a href="https://kaggle.com/shahidul034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shahidul034" height="30" width="40" /></a>
-<a href="https://fb.com/shahidulshakib034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahidulshakib034" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shakib034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shakib034" height="30" width="40" /></a>
+<a href="https://huggingface.co/shahidul034" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
