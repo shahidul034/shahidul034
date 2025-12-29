@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Readability control using RL**
 
-- 👨‍💻 All of my projects are available at [https://shahidul034.github.io/My-portfolio-website/](https://shahidul034.github.io/My-portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://shahidul034.github.io/](https://shahidul034.github.io/)
 
 - 💬 Ask me about **NLP, LLM, Machine learning and Python**
 
 - 📫 How to reach me **shahidulshakib034@gmail.com and mdshahidul_salim@student.uml.edu**
 
-- 📄 Know about my experiences [https://shahidul034.github.io/My-portfolio-website/](https://shahidul034.github.io/My-portfolio-website/)
+- 📄 Know about my experiences [https://shahidul034.github.io/](https://shahidul034.github.io/)
 
 - ⚡ Fun fact **I love programming and Gaming(FIFA)**
 
