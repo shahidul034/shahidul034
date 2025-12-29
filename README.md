@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BioMedical Large language models**
 
-- 👯 I’m looking to collaborate on **Uncertainty Quantification for Large Language Models**
+- 👯 I’m looking to collaborate on **Readability control using RL**
 
 - 👨‍💻 All of my projects are available at [https://shahidul034.github.io/My-portfolio-website/](https://shahidul034.github.io/My-portfolio-website/)
 
