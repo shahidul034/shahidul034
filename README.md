@@ -5,7 +5,7 @@
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidul034" alt="shahidul034" /></a> </p> --->
 
-- 🌱 I’m currently learning **BioMedical Large language models**
+- 🌱 I’m currently learning **Reinforcement learning using VerL**
 
 - 👯 I’m looking to collaborate on **Readability control using RL**
 
